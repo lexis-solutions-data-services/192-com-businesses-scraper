@@ -2,6 +2,12 @@
 
 ![Banner](https://i.ibb.co/1GXK9xRQ/Screenshot-2025-11-02-at-4-14-32-PM.png)
 
+
+<p align="center">
+  <img src="https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/DevbkY3adMTBuoECt-actor-Cfp9stC9qcoKKFCZG-haThOgnN0i-295331757_473876728075220_6639252721489178882_n.jpg" alt="192.com Businesses Scraper" width="200" />
+</p>
+
+
 This Apify actor allows you to scrape business directory data from **192.com**, the UK's leading online directory. Extract comprehensive business information including contact details, locations, websites, opening hours, and market sectors — perfect for business intelligence, market research, and directory data collection.
 
 <p align="center">
@@ -12,6 +18,19 @@ This Apify actor allows you to scrape business directory data from **192.com**, 
 
 
 ---
+
+
+## 📊 Actor Stats
+
+| Stat | Value |
+|------|-------|
+| **Version** | `1.0.1` |
+| **Total Runs** | 18 |
+| **Last Run** | Nov 29, 2025 |
+| **Last Updated** | Nov 8, 2025 |
+
+---
+
 
 ## 🚀 Key Features
 
