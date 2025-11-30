@@ -21,7 +21,7 @@ This Apify actor allows you to scrape business directory data from **192.com**, 
 | **Version** | `1.0.1` |
 | **Total Runs** | 18 |
 | **Total Users** | 3 |
-| **Stats Date** | Nov 8, 2025 |
+| **Stats Date** | Nov 30, 2025 |
 
 ---
 
